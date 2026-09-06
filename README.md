@@ -22,7 +22,8 @@ Assign a consistent IP address to the Kali VM.
 Verify network connectivity and DNS resolution.
 Take a clean VM snapshot for recovery.
 Document the complete setup process.
-Prepare the environment for future cybersecurity projects.
+Prepare the environment for future cybersecurity projects.  
+
 🛡️ Purpose of the Lab
 The lab provides an isolated and controlled environment for cybersecurity learning and authorized security testing.
 
