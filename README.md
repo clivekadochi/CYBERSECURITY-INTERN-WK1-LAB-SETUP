@@ -1,7 +1,6 @@
 <img width="1366" height="768" alt="Screenshot 2026-09-06 152853" src="https://github.com/user-attachments/assets/d5334d71-9ee8-4bc5-a08d-f7f341f02ce3" />
 <img width="1366" height="768" alt="4-Screenshot-kali linux-network settings working perfectly fine 2026-09-04 190044" src="https://github.com/user-attachments/assets/db3c4dbe-68c4-4834-8ba2-eac3b3090c66" />
-<img width="1366" height="768" alt="3-Screenshot-kali-linux 2026-09-04 185102" src="https://github.com/user-attachments/assets/9843291d-b8a6-4904-b3b3-ebbca4ad3f1e" />
-<img width="1366" height="768" alt="2-Screenshot-network settings 2026-09-04 172128" src="https://github.com/user-attachments/assets/340dbffa-6058-4b04-b684-26a3d2d39ede" />
+
 <img width="1366" height="768" alt="2-Screenshot-network settings 2026-09-04 172128" src="https://github.com/user-attachments/assets/98c73667-3c12-4ffb-a34a-a87a2cc191ce" />
 <div align="center">
 
@@ -136,7 +135,10 @@ Adapter Type: Intel PRO/1000 MT Desktop
 The VM was allocated:
 
 RAM: 2048 MB
- A shared folder was also configured for transferring required files between the host operating system and the Kali VM.
+ 
+<img width="1366" height="768" alt="3-Screenshot-kali-linux 2026-09-04 185102" src="https://github.com/user-attachments/assets/9843291d-b8a6-4904-b3b3-ebbca4ad3f1e" /> 
+
+A shared folder was also configured for transferring required files between the host operating system and the Kali VM.
 
 # Step 5. Configure the Kali Linux Network
 
