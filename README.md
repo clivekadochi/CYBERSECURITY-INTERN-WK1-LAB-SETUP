@@ -1,6 +1,3 @@
-<img width="1366" height="768" alt="Screenshot 2026-09-06 152853" src="https://github.com/user-attachments/assets/d5334d71-9ee8-4bc5-a08d-f7f341f02ce3" />
-<img width="1366" height="768" alt="4-Screenshot-kali linux-network settings working perfectly fine 2026-09-04 190044" src="https://github.com/user-attachments/assets/db3c4dbe-68c4-4834-8ba2-eac3b3090c66" />
-
 
 <div align="center">
 
