@@ -7,14 +7,30 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/Skill-Cybersecurity-404040?style=flat-square&labelColor=C00000" />
-  <img src="https://img.shields.io/badge/Ver-Virtualbox%20v7.2-0070C0?style=flat-square&labelColor=000000" />
+  <img src="https://img.shields.io/badge/Ver-Virtualbox%20v7.1.4-0070C0?style=flat-square&labelColor=000000" />
   <img src="https://img.shields.io/badge/Kali%20Linux-v2026.2-E87500?style=flat-square&labelColor=000000&logo=kalilinux&logoColor=white" />
   <img src="https://img.shields.io/badge/Skill-Linux-404040?style=flat-square&labelColor=C00000" />
   <img src="https://img.shields.io/badge/Network-10.0.0.0%2F24-238F89?style=flat-square&labelColor=000000" />
-Install/import Kali Linux as a virtual machine.
-Create a private NAT Network for the cybersecurity lab.
-Configure network connectivity for Kali Linux.
-Assign a consistent IP address to the Kali VM.
+
+ # 📌 Project Overview 
+ 
+This project focuses on setting up a virtual cybersecurity and penetration testing laboratory using virtualBox and Kali Linux.
+
+This purpose of the lab is to create a controlled environment where cybersecurity tools, network scanning, and other security testing activities can be performed safely and repeatedly.
+
+# 🎯 Objectives 
+
+ The main objectives of this project are to 
+
+ . Install and configure virtualBox. 
+
+ . Install/import Kali Linux as a virtual machine.
+
+  . Create a private NAT Network for the cybersecurity lab.
+
+  . Configure network connectivity for Kali Linux.
+
+  . Assign a consistent IP address to the Kali VM.
 
   . Verify network connectivity and DNS resolution.
 
@@ -53,18 +69,32 @@ Additional target machines can be added to the same virtual network in future pr
 
 # ⚙️ Lab Configuration
 
-🧩 Component	⚙️ Configuration
+🧩 Component	
+
+⚙️ Configuration
+
 🖥️ Host OS	Windows 10
+
 🧠 Host RAM	8 GB
+
 ⚡ Processor	Intel Core i7
+
 🧰 Hypervisor	VirtualBox 7.2
+
 🐉 Security OS	Kali Linux 2026.2
+
 🧠  Kali RAM	2048 MB
+
 🌐 Virtual Network	NAT Network
+
 📡 Network Address	10.0.0.0/24
+
 🐧 Kali IP Address	10.0.0.2/24
+
 🚪 Default Gateway	10.0.0.1
+
 🌍 DNS Server	8.8.8.8
+
 🔮 Future VM Range	10.0.0.3–10.0.0.99 
 
 # 🪜 Lab Setup Procedure
