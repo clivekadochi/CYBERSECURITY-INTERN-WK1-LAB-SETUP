@@ -248,6 +248,6 @@ Clive kadochi
 Cybersecurity Internship B083C
 
 LinkedIn: https://www.linkedin.com/in/clivekadochi/
-
+www.linkedin.com/in/clive-kadochi-1st-924492261
 # 📌 Project Information
 Program Name: Cybersecurity at Networkwalks | Week: 01 | Project: Cybersecurity & Pentesting Lab Setup | Repository: GitHub# CYBERSECURITY-INTERN-WK1-LAB-SETUP
