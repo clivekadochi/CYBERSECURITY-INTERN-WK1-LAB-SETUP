@@ -241,13 +241,17 @@ This laboratory is intended strictly for education purposes only.
 
 # 🔗 Tools & Resources
 7-Zip: https://7-zip.org/download.html
+
 VirtualBox: https://virtualbox.org/wiki/Downloads
+
 Kali Linux: https://kali.org/get-kali
+
 # 👤 Author
 Clive kadochi 
 Cybersecurity Internship B083C
 
 LinkedIn: https://www.linkedin.com/in/clivekadochi/
+
 www.linkedin.com/in/clive-kadochi-1st-924492261
 # 📌 Project Information
 Program Name: Cybersecurity at Networkwalks | Week: 01 | Project: Cybersecurity & Pentesting Lab Setup | Repository: GitHub# CYBERSECURITY-INTERN-WK1-LAB-SETUP
